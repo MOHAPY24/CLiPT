@@ -7,7 +7,7 @@ from datetime import datetime
 
 
 # Database Class
-class M8DB:
+class CLiPT:
     def __init__(self, db_file, log_file='log.txt'):
         """Initialize the database and log file paths."""
         self.db_file = db_file
